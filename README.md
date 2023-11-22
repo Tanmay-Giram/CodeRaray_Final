@@ -11,7 +11,7 @@ run the commands below -
 
 #### Login Credentials ->
 
-Admin loggin - username- tnmy , password- Natalia
+Admin login - username- tnmy , password- Natalia
 Librarian login - username- ram , password- ram
 publisher - username - atharva , password - atharva
 
