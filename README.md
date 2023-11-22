@@ -9,6 +9,12 @@ run the commands below -
                       python manage.py migrate
                       python manage.py runserver
 
+#### Login Credentials ->
+
+Admin loggin - username- tnmy , password- Natalia
+Librarian login - username- ram , password- ram
+publisher - username - atharva , password - atharva
+
 #### key Features =>
 
 ### 3 types of Users/Panels -
